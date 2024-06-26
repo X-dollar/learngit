@@ -1,3 +1,4 @@
 Git is a distributed version control system.
 Git is free software.
-This is a new text from dev , and is a conflict change
+This is a new text from feature 
+
