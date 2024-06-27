@@ -5,4 +5,4 @@ This change is to test the branch management
 This line is add in ff dev
 This line is added in --no-ff dev
 
-This is a BUG
+This is a BUG---Fixed BUG
